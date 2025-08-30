@@ -1,6 +1,6 @@
 **
 
-# The Daily Axiom: Global Tech & AI Intelligence Briefing - August 30, 2025
+# The Daily Axiomtest: Global Tech & AI Intelligence Briefing - August 30, 2025
 
 ## Executive Summary: The Great Recalibration—[[Hyperscalers]] Move to Control the Full [[local AI stack]]
 
