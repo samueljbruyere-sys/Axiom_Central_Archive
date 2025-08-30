@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axiom_Central_Archive/00_Directives/Directive - Daily Axiom v1.0 (Original).md",
+                "file": "Axiom_Central_Archive/02_Entities/Models/Proprietary/Gemeni/Capability Upgrades.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Directive - Daily Axiom v1.0 (Original)"
+              "title": "Capability Upgrades"
             }
           }
         ]
@@ -179,8 +179,10 @@
   },
   "active": "f1e286cb36b38e22",
   "lastOpenFiles": [
-    "Axiom_Central_Archive/00_Directives/Mid-Day Situational Update.md",
+    "Axiom_Central_Archive/00_Directives/Directive - Mid-Day SITREP v1.1.md",
+    "Axiom_Central_Archive/02_Entities/Models/Proprietary/Gemeni/Capability Upgrades.md",
     "Axiom_Central_Archive/00_Directives/Directive - Daily Axiom v1.0 (Original).md",
+    "Axiom_Central_Archive/00_Directives/Mid-Day Situational Update.md",
     "Axiom_Central_Archive/03_Analysis/Hyperscalers.md",
     "Axiom_Central_Archive/01_Briefings/2025/08_August/2025-08-30  -  Daily Axiom.md.md",
     "Axiom_Central_Archive/02_Entities/Models/Proprietary/GPT/GPT-4o.md",
@@ -204,8 +206,6 @@
     "Axiom_Central_Archive/02_Entities/Hardware/Intel's Arc.md",
     "Axiom_Central_Archive/02_Entities/Models/Open-Source/DeepSeek/DeepSeek-AI.md",
     "Axiom_Central_Archive/02_Entities/Models/Open-Source/DeepSeek",
-    "Axiom_Central_Archive/02_Entities/Models/Open-Source/DeepSeek.md",
-    "Axiom_Central_Archive/02_Entities/Models/Proprietary/GPT/GPT (Family).md.md",
     "Axiom_Central_Archive/02_Entities/Models/Proprietary/Claude",
     "Axiom_Central_Archive/02_Entities/Models/Proprietary/GPT",
     "Axiom_Central_Archive/02_Entities/Geopolitical_Entities",
