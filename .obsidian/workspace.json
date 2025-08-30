@@ -1,0 +1,491 @@
+{
+  "main": {
+    "id": "436b8ee2db454d47",
+    "type": "split",
+    "children": [
+      {
+        "id": "89a3073d355194ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fff28c54c1a9e3ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/01_Briefings/2025/08_August/2025-08-30  -  Daily Axiom.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-30  -  Daily Axiom.md"
+            }
+          },
+          {
+            "id": "7a7e56682bf9ab05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/01_Briefings/2025/08_August/2025-08-30  -  Daily Axiom.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-30  -  Daily Axiom.md"
+            }
+          },
+          {
+            "id": "c77c3dedde33b2ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/02_Entities/Technologies/OpenLLMetry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenLLMetry"
+            }
+          },
+          {
+            "id": "9e8e44d437b171ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/02_Entities/Software_Tools/Llama.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Llama"
+            }
+          },
+          {
+            "id": "306f243e288ba4b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/01_Briefings/2025/08_August/2025-08-30  -  Daily Axiom.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-30  -  Daily Axiom.md"
+            }
+          },
+          {
+            "id": "ab181f15ecfe9647",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/03_Analysis/Hyperscalers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hyperscalers"
+            }
+          },
+          {
+            "id": "c1686dd8766fc966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/01_Briefings/2025/08_August/2025-08-30  -  Daily Axiom.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-30  -  Daily Axiom.md"
+            }
+          },
+          {
+            "id": "2d551290cb7d8046",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/03_Analysis/AIB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AIB"
+            }
+          },
+          {
+            "id": "43d66f26ac3b7330",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/03_Analysis/C-Suite Sentiment.md.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "C-Suite Sentiment.md"
+            }
+          },
+          {
+            "id": "195e99a974b67e53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/02_Entities/Models/Open-Source/DeepSeek/DeepSeek-AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DeepSeek-AI"
+            }
+          },
+          {
+            "id": "3fbc2c905c3d017a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/02_Entities/Hardware/Intel's Arc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intel's Arc"
+            }
+          },
+          {
+            "id": "f6943286b3fa0299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/03_Analysis/FOMO (Fear of Missing Out).md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FOMO (Fear of Missing Out).md"
+            }
+          },
+          {
+            "id": "0bfbf1ecab71258b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/02_Entities/Models/Proprietary/GPT/gpt-oss-20b.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gpt-oss-20b"
+            }
+          },
+          {
+            "id": "ccd56e535a0ce8d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/02_Entities/Software_Tools/Microsoft Azure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Microsoft Azure"
+            }
+          },
+          {
+            "id": "77f663d37d277a22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "open-source AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "open-source AI"
+            }
+          },
+          {
+            "id": "c5886240066135d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RTX 50.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RTX 50"
+            }
+          },
+          {
+            "id": "a893b7d4b5ca2cd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ShadowPlay.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ShadowPlay"
+            }
+          },
+          {
+            "id": "aa8a8a7bc9056836",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/02_Entities/Technologies/motherboards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "motherboards"
+            }
+          },
+          {
+            "id": "00c33c48b68f4460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/02_Entities/Technologies/MLOps (Machine Learning Operations).md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MLOps (Machine Learning Operations).md"
+            }
+          },
+          {
+            "id": "d8aa6776b8472079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/01_Briefings/2025/08_August/2025-08-30  -  Daily Axiom.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-30  -  Daily Axiom.md"
+            }
+          }
+        ],
+        "currentTab": 19
+      },
+      {
+        "id": "897768d367dc603e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92c786e27606315b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "510b9cd80b664c7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fc9e97e6c09e043",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6665f6919dff3aa1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "642f0a80cab85550",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1dda75b82c4b7584",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 389.5
+  },
+  "right": {
+    "id": "980bc5704f048ef7",
+    "type": "split",
+    "children": [
+      {
+        "id": "924de9a253a2647d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12b086120f6fbf44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f808fbac55f978d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c30fe474c67f2a2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b82107c4a05964db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "92c786e27606315b",
+  "lastOpenFiles": [
+    "Axiom_Central_Archive/01_Briefings/2025/08_August/2025-08-30  -  Daily Axiom.md.md",
+    "Axiom_Central_Archive/02_Entities/Models/Proprietary/GPT/GPT-4o.md",
+    "Axiom_Central_Archive/02_Entities/Technologies/MLOps (Machine Learning Operations).md.md",
+    "Axiom_Central_Archive/02_Entities/Technologies/motherboards.md",
+    "Open-Source Software Stack.md",
+    "ShadowPlay.md",
+    "RTX 50.md",
+    "open-source AI.md",
+    "Axiom_Central_Archive/02_Entities/Software_Tools/Microsoft Azure.md",
+    "Axiom_Central_Archive/02_Entities/Models/Proprietary/MAI/MAI.md",
+    "Axiom_Central_Archive/02_Entities/Technologies/local AI.md",
+    "Axiom_Central_Archive/02_Entities/Models/Proprietary/LLaMA 3.md",
+    "Axiom_Central_Archive/02_Entities/Models/Proprietary/GPT/gpt-oss-20b.md",
+    "Axiom_Central_Archive/02_Entities/Models/Proprietary/GPT/gpt-oss.md",
+    "Axiom_Central_Archive/02_Entities/Models/Proprietary/GPT/GPT.md",
+    "Axiom_Central_Archive/02_Entities/Models/Proprietary/Gemeni/Gemini.md",
+    "Axiom_Central_Archive/03_Analysis/FOMO.md",
+    "Axiom_Central_Archive/03_Analysis/FOMO (Fear of Missing Out).md.md",
+    "proprietary.md",
+    "Axiom_Central_Archive/02_Entities/Hardware/Intel's Arc.md",
+    "Axiom_Central_Archive/02_Entities/Models/Open-Source/DeepSeek/DeepSeek-AI.md",
+    "Axiom_Central_Archive/02_Entities/Models/Open-Source/DeepSeek",
+    "Axiom_Central_Archive/02_Entities/Models/Open-Source/DeepSeek.md",
+    "Axiom_Central_Archive/02_Entities/Models/Proprietary/GPT/GPT (Family).md.md",
+    "Axiom_Central_Archive/02_Entities/Technologies/Cloud-Based Computing.md.md",
+    "Axiom_Central_Archive/02_Entities/Models/Proprietary/Claude/Claude.md",
+    "Axiom_Central_Archive/02_Entities/Models/Proprietary/Claude",
+    "Axiom_Central_Archive/02_Entities/Technologies/Agentic.md",
+    "Axiom_Central_Archive/02_Entities/Models/Proprietary/GPT",
+    "Axiom_Central_Archive/02_Entities/Geopolitical_Entities",
+    "Axiom_Central_Archive/02_Entities/Models/Proprietary/MAI",
+    "Axiom_Central_Archive/02_Entities/Models/Proprietary/Gemeni",
+    "Axiom_Central_Archive/02_Entities/Hardware",
+    "Axiom_Central_Archive/02_Entities/Products_and_Platforms",
+    "Axiom_Central_Archive/02_Entities/Models/Open-Source",
+    "Axiom_Central_Archive/02_Entities/Models/Proprietary"
+  ]
+}
