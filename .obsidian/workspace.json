@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "18b939a19b10c1b2",
+        "id": "d7bce99e82e64846",
         "type": "tabs",
         "children": [
           {
-            "id": "f1e286cb36b38e22",
+            "id": "4d49ad1e1c9ca448",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/The Daily Axiom SITREP August 30 2025 1600 Hours.md.md",
+                "file": "Axiom_Central_Archive/01_Briefings/2025/08_August/The Daily Axiom SITREP August 30 2025 1600 Hours.md.md",
                 "mode": "source",
                 "source": false
               },
@@ -89,6 +89,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f1e286cb36b38e22",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "12b086120f6fbf44",
             "type": "leaf",
             "state": {
@@ -158,12 +168,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,12 +186,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1e286cb36b38e22",
+  "active": "4d49ad1e1c9ca448",
   "lastOpenFiles": [
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - US-ROK Chip Waiver Revocation.md.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Operation Chimera's Fire v2.0.md",
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/The Daily Axiom SITREP August 30 2025 1600 Hours.md.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Operation Chimera's Fire v1.0.md",
-    "Axiom_Central_Archive/01_Briefings/2025/08_August/The Daily Axiom SITREP  August 30 2025 1600 Hours.md.md",
+    "Axiom_Central_Archive/01_Briefings/2025/08_August/The Daily Axiom SITREP August 30 2025 1600 Hours.md.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire",
     "Axiom_Central_Archive/55_Misc/August 30 2025 411CDT Context.md",
     "Axiom_Central_Archive/99_Unsorted/NVFP4.md",
