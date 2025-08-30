@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89a3073d355194ce",
+        "id": "18b939a19b10c1b2",
         "type": "tabs",
         "children": [
           {
-            "id": "fff28c54c1a9e3ab",
+            "id": "f1e286cb36b38e22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,289 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "2025-08-30  -  Daily Axiom.md"
-            }
-          },
-          {
-            "id": "7a7e56682bf9ab05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Axiom_Central_Archive/01_Briefings/2025/08_August/2025-08-30  -  Daily Axiom.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-30  -  Daily Axiom.md"
-            }
-          },
-          {
-            "id": "c77c3dedde33b2ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Axiom_Central_Archive/02_Entities/Technologies/OpenLLMetry.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OpenLLMetry"
-            }
-          },
-          {
-            "id": "9e8e44d437b171ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Axiom_Central_Archive/02_Entities/Software_Tools/Llama.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Llama"
-            }
-          },
-          {
-            "id": "306f243e288ba4b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Axiom_Central_Archive/01_Briefings/2025/08_August/2025-08-30  -  Daily Axiom.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-30  -  Daily Axiom.md"
-            }
-          },
-          {
-            "id": "ab181f15ecfe9647",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Axiom_Central_Archive/03_Analysis/Hyperscalers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hyperscalers"
-            }
-          },
-          {
-            "id": "c1686dd8766fc966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Axiom_Central_Archive/01_Briefings/2025/08_August/2025-08-30  -  Daily Axiom.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-30  -  Daily Axiom.md"
-            }
-          },
-          {
-            "id": "2d551290cb7d8046",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Axiom_Central_Archive/03_Analysis/AIB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AIB"
-            }
-          },
-          {
-            "id": "43d66f26ac3b7330",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Axiom_Central_Archive/03_Analysis/C-Suite Sentiment.md.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "C-Suite Sentiment.md"
-            }
-          },
-          {
-            "id": "195e99a974b67e53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Axiom_Central_Archive/02_Entities/Models/Open-Source/DeepSeek/DeepSeek-AI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DeepSeek-AI"
-            }
-          },
-          {
-            "id": "3fbc2c905c3d017a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Axiom_Central_Archive/02_Entities/Hardware/Intel's Arc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intel's Arc"
-            }
-          },
-          {
-            "id": "f6943286b3fa0299",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Axiom_Central_Archive/03_Analysis/FOMO (Fear of Missing Out).md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FOMO (Fear of Missing Out).md"
-            }
-          },
-          {
-            "id": "0bfbf1ecab71258b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Axiom_Central_Archive/02_Entities/Models/Proprietary/GPT/gpt-oss-20b.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gpt-oss-20b"
-            }
-          },
-          {
-            "id": "ccd56e535a0ce8d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Axiom_Central_Archive/02_Entities/Software_Tools/Microsoft Azure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Microsoft Azure"
-            }
-          },
-          {
-            "id": "77f663d37d277a22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "open-source AI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "open-source AI"
-            }
-          },
-          {
-            "id": "c5886240066135d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RTX 50.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RTX 50"
-            }
-          },
-          {
-            "id": "a893b7d4b5ca2cd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ShadowPlay.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ShadowPlay"
-            }
-          },
-          {
-            "id": "aa8a8a7bc9056836",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Axiom_Central_Archive/02_Entities/Technologies/motherboards.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "motherboards"
-            }
-          },
-          {
-            "id": "00c33c48b68f4460",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Axiom_Central_Archive/02_Entities/Technologies/MLOps (Machine Learning Operations).md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MLOps (Machine Learning Operations).md"
-            }
-          },
-          {
-            "id": "d8aa6776b8472079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Axiom_Central_Archive/01_Briefings/2025/08_August/2025-08-30  -  Daily Axiom.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-30  -  Daily Axiom.md"
-            }
-          }
-        ],
-        "currentTab": 19
-      },
-      {
-        "id": "897768d367dc603e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "92c786e27606315b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -430,13 +147,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "f40799c932f9fb09",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -446,10 +173,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92c786e27606315b",
+  "active": "f1e286cb36b38e22",
   "lastOpenFiles": [
     "Axiom_Central_Archive/01_Briefings/2025/08_August/2025-08-30  -  Daily Axiom.md.md",
     "Axiom_Central_Archive/02_Entities/Models/Proprietary/GPT/GPT-4o.md",
