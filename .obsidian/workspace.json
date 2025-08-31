@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Analysis - The University Compute Vector"
             }
+          },
+          {
+            "id": "1b80b048d9c675a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/00_Directives/Directive - EOD Signal Scan v1.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Directive - EOD Signal Scan v1.1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,14 +201,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03709ff67a12cf86",
+  "active": "1b80b048d9c675a6",
   "lastOpenFiles": [
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - The Mixture of Contexts Breakthrough v1.1.md",
+    "Axiom_Central_Archive/00_Directives/Directive - EOD Signal Scan v1.0.md",
+    "Axiom_Central_Archive/00_Directives/Directive - EOD Signal Scan v1.1.md",
+    "Axiom_Central_Archive/00_Directives/Directive - Mid-Day SITREP v1.1.md",
+    "Directive - MoC Pattern Analysis v1.0.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - The University Compute Vector.md",
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - The Mixture of Contexts Breakthrough v1.1.md",
     "Axiom_Central_Archive/02_Entities/Technologies/Mixture of Contexts (MoC).md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Untitled",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - The Mixture of Contexts Breakthrough.md",
-    "Axiom_Central_Archive/00_Directives/Directive - EOD Signal Scan v1.0.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - The Post-Inversion Investment Thesis.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - The Great Inversion - Mechanisms and Evidence.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - The Post-Inversion Investment Thesis duplicate.md",
@@ -212,10 +230,7 @@
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - Damage Cascade of US-ROK Chip Waiver Revocation.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - US-ROK Chip Waiver Revocation.md.md",
     "Axiom_Central_Archive/01_Briefings/2025/08_August/The Daily Axiom SITREP August 30 2025 1600 Hours.md.md",
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Operation Chimera's Fire v2.0.md",
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Operation Chimera's Fire v1.0.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire",
-    "Axiom_Central_Archive/55_Misc/August 30 2025 411CDT Context.md",
     "Axiom_Central_Archive/55_Misc",
     "Axiom_Central_Archive/99_Unsorted",
     "Axiom_Central_Archive/02_Entities/Models/Open-Source/DeepSeek",
