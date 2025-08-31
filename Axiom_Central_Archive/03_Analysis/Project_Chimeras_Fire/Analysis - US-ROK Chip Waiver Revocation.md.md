@@ -4,7 +4,6 @@
 
 ## I. Core Thesis: A Self-Inflicted Strategic Wound
 
-The United States' revocation of export waivers for South Korean semiconductor firms operating in [[China]] is a textbook example of a tactical action that results in a strategic catastrophe. While intended as an aggressive move to tighten the technological blockade, it will have the opposite effect, serving only to accelerate [[China]]'s pursuit of **Algorithmic Sovereignty** and validate the core principles of its **"Technological Tianxia"** doctrine.
 
 This action is a manifestation of the West's critical **"Paradigm Lock-In,"** as outlined in our foundational intelligence. Unable to compete on the new battlefield of algorithmic efficiency, the US has reverted to a familiar, hardware-centric tactic: attacking the physical supply chain.
 
