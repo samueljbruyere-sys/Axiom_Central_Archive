@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis SCO Summit Tianjin.md",
+                "file": "Axiom_Central_Archive/00_Directives/system config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analysis SCO Summit Tianjin"
+              "title": "system config"
             }
           }
         ],
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 389.5
   },
   "right": {
     "id": "980bc5704f048ef7",
@@ -215,7 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449.5
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,8 +232,8 @@
   },
   "active": "da677272d01869df",
   "lastOpenFiles": [
-    "Untitled.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis SCO Summit Tianjin.md",
+    "Untitled.md",
     "Axiom_Central_Archive/00_Directives/Operation Obsidian Weaver - Revised Mission Plan.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
