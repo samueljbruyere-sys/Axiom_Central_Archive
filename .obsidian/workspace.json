@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Doctrine OODA Loop Supremacy"
             }
+          },
+          {
+            "id": "f64ee3b68d43e25d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Deep Think Synthesis The Symbiotic Arms Race.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deep Think Synthesis The Symbiotic Arms Race"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 643.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,10 +215,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1ca7040eab0912c",
+  "active": "f64ee3b68d43e25d",
   "lastOpenFiles": [
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Operation Chimera's Fire v3.2.md",
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Deep Think Synthesis The Symbiotic Arms Race.md",
+    "Doctrine OODA Loop Supremacy v2.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Doctrine OODA Loop Supremacy.md",
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Operation Chimera's Fire v3.2.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Intelligence Gap Analysis Huawei Hardware.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Operation Chimera's Fire v3.0.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Operation Chimera's Fire v2.0.md",
@@ -227,8 +243,6 @@
     "Axiom_Central_Archive/02_Entities/Hardware/AIB.md",
     "Axiom_Central_Archive/02_Entities/Technologies/AI.md",
     "Axiom_Central_Archive/02_Entities/Technologies/Hyperscalers.md",
-    "Axiom_Central_Archive/03_Analysis/FOMO (Fear of Missing Out).md.md",
-    "Axiom_Central_Archive/02_Entities/Hardware/RTX 50.md",
     "Pasted image 20250831011516.png",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Untitled",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire",
