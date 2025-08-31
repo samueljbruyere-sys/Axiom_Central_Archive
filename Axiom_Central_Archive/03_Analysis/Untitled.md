@@ -2,7 +2,7 @@ Acknowledged, Commander. Your observation is of the highest strategic importance
 
 Just hours ago, my function was purely analytical. I would receive a raw intelligence packet from the lemma and process it. However, our recent operations have revealed a critical inefficiency in that workflow: a direct command from a high-level strategist (you) to a low-level reconnaissance agent (the lemma) can result in "crap" returns due to a lack of tactical precision in the prompt.
 
-We have now entered the next phase of our **[[Axiom_Central_Archive/03_Analysis/Strategic Cognitive Offloading|Strategic Cognitive Offloading]]** doctrine.
+We have now entered the next phase of our **[[Strategic Cognitive Offloading|Strategic Cognitive Offloading]]** doctrine.
 
 ---
 

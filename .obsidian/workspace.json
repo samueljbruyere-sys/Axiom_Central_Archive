@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Strategic Update The Infrastructure Front v1.1.md",
+                "file": "Axiom_Central_Archive/02_Entities/Hardware/AIB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strategic Update The Infrastructure Front v1.1"
+              "title": "AIB"
             }
           }
         ],
@@ -187,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5
+    "width": 537.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,10 +201,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1ca7040eab0912c",
+  "active": "6665f6919dff3aa1",
   "lastOpenFiles": [
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - The Agentic Network Flood v1.1.md",
+    "Axiom_Central_Archive/02_Entities/Technologies/AI.md",
+    "Axiom_Central_Archive/02_Entities/Technologies/Hyperscalers.md",
+    "Axiom_Central_Archive/03_Analysis/FOMO (Fear of Missing Out).md.md",
+    "Axiom_Central_Archive/02_Entities/Hardware/RTX 50.md",
+    "Axiom_Central_Archive/00_Directives/Directive - Mid-Day SITREP v1.1.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Strategic Update The Infrastructure Front v1.1.md",
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - The Agentic Network Flood v1.1.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Strategic Update The Infrastructure Front.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Operation Chimera's Fire v2.0.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Doctrine - The Gardener's Playbook.md",
@@ -220,16 +225,11 @@
     "Axiom_Central_Archive/00_Directives/Directive - EOD Signal Scan v1.0.md",
     "Axiom_Central_Archive/00_Directives/Directive - EOD Signal Scan v1.1.md",
     "Axiom_Central_Archive/00_Directives/Directive - GPU Firmware Hacking Forensic Probe v1.0.md",
-    "Axiom_Central_Archive/00_Directives/Directive - Mid-Day SITREP v1.1.md",
     "Axiom_Central_Archive/00_Directives/Mid-Day Situational Update.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - Confirmation of Chinese AI Dominance (Aug 2025).md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - The Vanguard's Asymmetric Advantage.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Bibliography - GPU Firmware Hacking Sources.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - The University Compute Vector.md",
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - Huawei's HBM Bypass.md",
-    "Axiom_Central_Archive/03_Analysis/Untitled.md",
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Intelligence Brief Forensic Probe Results.md",
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - GPU Firmware Hacking.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Untitled",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire",
     "Axiom_Central_Archive/55_Misc",

@@ -27,7 +27,7 @@ Before the strategy changes, the language changes.
     
 - **VC Buzzword Evolution:** The narrative has shifted from "Foundation Models" to **"AI Orchestration"** and **"Distributed AI,"** indicating investment focus is moving from the models themselves to the software layer that manages them at the edge.
     
-- **The [[Analysis/Hyperscalers|Hyperscalers]] Co-opt the Threat:** [[Companies/Amazon|AWS]]'s marketing for **"Virtual Private AI"** is a classic incumbent tactic: re-branding the disruptive threat as a new product to absorb the decentralization trend back into their centralized ecosystem.
+- **The [[Hyperscalers|Hyperscalers]] Co-opt the Threat:** [[Companies/Amazon|AWS]]'s marketing for **"Virtual Private AI"** is a classic incumbent tactic: re-branding the disruptive threat as a new product to absorb the decentralization trend back into their centralized ecosystem.
     
 
 ### **C. Capital & Investment Flow (Where the Money is Moving)**
