@@ -172,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 777.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcae056722b29875",
+  "active": "f1e286cb36b38e22",
   "lastOpenFiles": [
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Bibliography - GPU Firmware Hacking Sources.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - The University Compute Vector.md",
