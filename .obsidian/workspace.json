@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d7bce99e82e64846",
+        "id": "d373fc93a658fdfb",
         "type": "tabs",
         "children": [
           {
-            "id": "4d49ad1e1c9ca448",
+            "id": "03709ff67a12cf86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - Faint Signals and Anomalies.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Analysis - Faint Signals and Anomalies"
+              "title": "New tab"
             }
           }
         ]
@@ -172,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 1170.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,10 +182,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d49ad1e1c9ca448",
+  "active": "f1e286cb36b38e22",
   "lastOpenFiles": [
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Doctrine - Cognitive Seeding v1.01.md",
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Bibliography - Project Chimeras Fire Sources v1.1.md",
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - The Post-Inversion Investment Thesis.md",
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Bibliography - Project Chimeras Fire Sources.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - Faint Signals and Anomalies.md",
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Doctrine - Cognitive Seeding v1.01.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Market Intelligence Briefing - The Cognitive Seeding Doctrine.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Doctrine - Cognitive Seeding v1.0.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - The Great Inversion - Mechanisms and Evidence.md",
@@ -214,9 +213,6 @@
     "Axiom_Central_Archive/02_Entities/Technologies/MLOps (Machine Learning Operations).md.md",
     "Axiom_Central_Archive/02_Entities/Technologies/motherboards.md",
     "Axiom_Central_Archive/99_Unsorted/Open-Source Software Stack.md",
-    "Axiom_Central_Archive/99_Unsorted/ShadowPlay.md",
-    "Axiom_Central_Archive/99_Unsorted/RTX 50.md",
-    "Axiom_Central_Archive/99_Unsorted/open-source AI.md",
     "Axiom_Central_Archive/02_Entities/Models/Open-Source/DeepSeek",
     "Axiom_Central_Archive/02_Entities/Models/Proprietary/Claude",
     "Axiom_Central_Archive/02_Entities/Models/Proprietary/GPT",
