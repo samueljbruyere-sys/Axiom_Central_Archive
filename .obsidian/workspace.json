@@ -229,7 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 525.5
+    "width": 216.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,7 +244,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6665f6919dff3aa1",
+  "active": "142746d0c31c4a44",
   "lastOpenFiles": [
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Updated Intelligence Analysis 01 SEP 2025.md",
     "Axiom_Central_Archive/01_Briefings/2025/09_September/Daily Axiom Global Intelligence Briefing September 1 2025.md",
