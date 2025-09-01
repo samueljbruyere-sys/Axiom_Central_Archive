@@ -38,7 +38,7 @@ Financial news: [[Bloomberg]], [[Reuters]]
 
 Tech media: [[TechCrunch]], [[The Verge]]
 
-Official channels: [[Google]], [[OpenAI]], [[Anthropic]], [[NVIDIA]], [[AMD]], [[Intel]], [[Microsoft]], [[Meta]]
+Official channels: [[Google]], [[OpenAI]], [[Anthropic]], [[NVIDIA]], [[AMD]], [[Intel]], [[Microsoft]], [[Meta]]  Use your best judgement on other news sources
 
 Deliverables:
 
@@ -72,7 +72,7 @@ Is this signal part of a larger pattern or anomaly?
 
 Focus: [[Open Source]] & [[Local Inference]]
 
-Sources:
+Sources: Use your best judgement on sources
 
 Community hubs: [[Reddit]] ([[r/LocalLLaMA]], [[r/MachineLearning]])
 
@@ -104,7 +104,7 @@ Top 10 [[Open Source]] & [[Local Inference]] Signals
 
 Focus: Hardware & Supply Chain
 
-Sources:
+Sources: Use your best judgement on sources
 
 Hardware review sites: Guru3D, [[Gamers Nexus]], Tom’s Hardware
 
@@ -134,7 +134,7 @@ Top 10 Hardware & Supply Chain Developments
 
 Focus: [[Capital Flows]] & [[Economic Warfare]]
 
-Sources:
+Sources: Use your best judgement on sources
 
 Financial data: [[NASDAQ]], [[S&P 500]], SEC filings
 
@@ -166,7 +166,7 @@ Top 10 Market Signals & [[Economic Warfare]] Developments
 
 Focus: Geopolitical Alignments, Strategic Posturing, and Memetic Diplomacy
 
-Sources:
+Sources: Use your best judgement on sources
 
 Global news: SCMP, Al Jazeera, BBC, The Diplomat, Foreign Affairs
 
@@ -206,7 +206,7 @@ Is this a tactical gesture or a strategic convergence?
 
 Focus: Key Individuals, Leadership Changes, and Influence Networks
 
-Sources:
+Sources: Use your best judgement on sources
 
 Public statements (Twitter/X, blogs), executive interviews (podcasts, articles), conference keynotes, insider reports, and leaked documents.
 
