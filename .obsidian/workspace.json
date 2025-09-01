@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axiom_Central_Archive/00_Directives/Directive - Mid-Day SITREP v1.1.md",
+                "file": "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Intelligence Analysis AGI House.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Directive - Mid-Day SITREP v1.1"
+              "title": "Intelligence Analysis AGI House"
             }
           }
         ],
@@ -215,7 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 779.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,8 +230,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "da677272d01869df",
+  "active": "f1e286cb36b38e22",
   "lastOpenFiles": [
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Intelligence Analysis AGI House.md",
+    "Axiom_Central_Archive/00_Directives/Directive - Mid-Day SITREP v1.1.md",
     "Axiom_Central_Archive/00_Directives/system config.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis SCO Summit Tianjin.md",
     "Untitled.md",
@@ -257,8 +259,6 @@
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/HUMINT Report Claude 4-1 Engagement.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/conversation with claude 4.1.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Deep Think Synthesis The Symbiotic Arms Race.md",
-    "Doctrine OODA Loop Supremacy v2.md",
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Doctrine OODA Loop Supremacy.md",
     "Pasted image 20250831011516.png",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Untitled",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire",
