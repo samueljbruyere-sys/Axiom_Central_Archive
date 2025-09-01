@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axiom_Central_Archive/03_Analysis/API-Driven Agentic Browser Assets.md",
+                "file": "Axiom_Central_Archive/00_Directives/Directive - MoC Pattern Analysis v1.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API-Driven Agentic Browser Assets"
+              "title": "Directive - MoC Pattern Analysis v1.0"
+            }
+          },
+          {
+            "id": "f3608f80fdc0135c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/00_Directives/Directive - MoC Pattern Analysis v1.0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Directive - MoC Pattern Analysis v1.0"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -244,10 +258,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "142746d0c31c4a44",
+  "active": "6665f6919dff3aa1",
   "lastOpenFiles": [
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Agentic Browser Theater Tactical Assessment.md",
+    "System Configuration & Mission Briefing.md",
+    "Axiom_Central_Archive/00_Directives/Directive - MoC Pattern Analysis v1.0.md",
+    "Axiom_Central_Archive/00_Directives/The Bedrock Protocol A Sovereign Intelligence Engine.md",
     "Axiom_Central_Archive/03_Analysis/API-Driven Agentic Browser Assets.md",
+    "Axiom_Central_Archive/00_Directives/Untitled",
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Agentic Browser Theater Tactical Assessment.md",
     "Axiom_Central_Archive/00_Directives/Daily Tech & AI Intelligence BriefingContentsExportCreate.md",
     "Axiom_Central_Archive/00_Directives/Master Prompt The Daily Axiom v3.0.md",
     "Axiom_Central_Archive/01_Briefings/2025/09_September/COPILOT V3 Global Intelligence Briefing – September 1, 2025.md",
@@ -270,9 +288,6 @@
     "Axiom_Central_Archive/00_Directives/system config.md",
     "Axiom_Central_Archive/00_Directives/Operation Obsidian Weaver - Revised Mission Plan.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Market Intelligence Briefing - The Cognitive Seeding Doctrine.md",
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/The Daily Axiom - 2025-08-30 (EOD Scan).md",
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Strategic Intelligence Report - August 2025.md",
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/SITREP Grok Front 2025-08-31.md",
     "copilot-custom-prompts",
     "Pasted image 20250831011516.png",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Untitled",
@@ -281,7 +296,6 @@
     "Axiom_Central_Archive/99_Unsorted",
     "Axiom_Central_Archive/02_Entities/Models/Open-Source/DeepSeek",
     "Axiom_Central_Archive/02_Entities/Models/Proprietary/Claude",
-    "Axiom_Central_Archive/02_Entities/Models/Proprietary/GPT",
-    "Axiom_Central_Archive/02_Entities/Geopolitical_Entities"
+    "Axiom_Central_Archive/02_Entities/Models/Proprietary/GPT"
   ]
 }
