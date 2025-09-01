@@ -263,4 +263,234 @@ Focus – Key Individuals & Influence Networks
 - Stress: 2
     
 
+## 19 references
+
+[
+
+1
+
+U.S. News Money
+
+Meta's AI Leaders Discuss Using Google, OpenAI Models in Apps, the Information Says
+
+money.usnews.com
+
+](https://money.usnews.com/investing/news/articles/2025-08-29/metas-ai-leaders-discuss-using-google-openai-models-in-apps-the-information-says)
+
+[
+
+2
+
+The Economic Times | MSN
+
+Microsoft launches own AI models to take on OpenAI, Google
+
+www.msn.com
+
+](https://www.msn.com/en-in/money/news/microsoft-launches-own-ai-models-to-take-on-openai-google/ar-AA1LsgC7)
+
+[
+
+3
+
+ZDNET
+
+OpenAI and Anthropic evaluated each others' models - which ones came out on top
+
+www.zdnet.com
+
+](https://www.zdnet.com/article/openai-and-anthropic-evaluated-each-others-models-which-ones-came-out-on-top/)
+
+[
+
+4
+
+www.bloomberg.com
+
+Technology: Big Tech - Bloomberg
+
+www.bloomberg.com
+
+](https://www.bloomberg.com/technology/big-tech)
+
+[
+
+5
+
+www.digitimes.com
+
+DIGITIMES Tech news
+
+www.digitimes.com
+
+](https://www.digitimes.com/tech/?gad_source=1)
+
+[
+
+6
+
+Crunchbase News
+
+Exclusive: FriendliAI Raises $20M Seed Extension To Grow AI Inference Platform
+
+news.crunchbase.com
+
+](https://news.crunchbase.com/ai/inference-platform-friendliai-raises-seed-extension-chun/)
+
+[
+
+7
+
+www.forbes.com
+
+New Models From OpenAI, Anthropic, Google – All At The Same Time - Forbes
+
+www.forbes.com
+
+](https://www.forbes.com/sites/johnwerner/2025/08/06/new-models-from-openai-anthropic-google--all-at-the-same-time/)
+
+[
+
+8
+
+www.bloomberg.com
+
+Technology - Bloomberg
+
+www.bloomberg.com
+
+](https://www.bloomberg.com/technology)
+
+[
+
+9
+
+www.reddit.com
+
+Making sense of 50+ Open-Source Options for Local LLM Inference - Reddit
+
+www.reddit.com
+
+](https://www.reddit.com/r/LocalLLaMA/comments/1bdrmei/making_sense_of_50_opensource_options_for_local/)
+
+[
+
+10
+
+huggingface.co
+
+deepseek-ai/DeepSeek-R1 · Hugging Face
+
+huggingface.co
+
+](https://huggingface.co/deepseek-ai/DeepSeek-R1)
+
+[
+
+11
+
+www.reddit.com
+
+[D] HuggingFace considered harmful to the community. /rant : r ... - Reddit
+
+www.reddit.com
+
+](https://www.reddit.com/r/MachineLearning/comments/113m1ly/d_huggingface_considered_harmful_to_the_community/)
+
+[
+
+12
+
+www.llmrumors.com
+
+LLM News - Latest Large Language Model Updates & AI News
+
+www.llmrumors.com
+
+](https://www.llmrumors.com/news)
+
+[
+
+13
+
+www.tomshardware.com
+
+News - Tom's Hardware
+
+www.tomshardware.com
+
+](https://www.tomshardware.com/news)
+
+[
+
+14
+
+NBC News
+
+S&P 500 ends higher after Trump attacks Fed
+
+www.nbcnews.com
+
+](https://www.nbcnews.com/business/markets/sp-500-ends-higher-trump-attacks-fed-rcna227329)
+
+[
+
+15
+
+24/7 Wall St.
+
+Nvidia (NASDAQ: NVDA) Stock Price Prediction for 2025: Where Will It Be in 1 Year (Aug 20)
+
+247wallst.com
+
+](https://247wallst.com/investing/2025/08/20/nvidia-nasdaq-nvda-stock-price-prediction-for-2025-where-will-it-be-in-1-year/)
+
+[
+
+16
+
+www.thestreet.com
+
+Morgan Stanley makes bold S&P 500 projection as U.S. dollar weakens
+
+www.thestreet.com
+
+](https://www.thestreet.com/markets/stock-market-today-deciding-week-of-earnings-macro-data-on-deck)
+
+[
+
+17
+
+www.morningstar.com
+
+Why Goldman Sachs has bumped up its S&P 500 target for ... - Morningstar
+
+www.morningstar.com
+
+](https://www.morningstar.com/news/marketwatch/2024100772/why-goldman-sachs-has-bumped-up-its-sp-500-target-for-the-third-time-this-year)
+
+[
+
+18
+
+www.aljazeera.com
+
+Pakistan pitches ‘responsible’ image as diplomatic war ... - Al Jazeera
+
+www.aljazeera.com
+
+](https://www.aljazeera.com/news/2025/5/29/ceasefire-holds-as-india-pakistan-tensions-shift-to-diplomacy)
+
+[
+
+19
+
+www.scmp.com
+
+Diplomacy: Latest News and Updates | South China Morning Post
+
+www.scmp.com
+
+](https://www.scmp.com/topics/diplomacy)
+
 o7
