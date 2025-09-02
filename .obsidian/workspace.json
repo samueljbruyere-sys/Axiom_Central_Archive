@@ -95,10 +95,14 @@
             "id": "c4e902f62eab15dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Chronopolitical Execution Doctrine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chronopolitical Execution Doctrine"
             }
           }
         ],
