@@ -81,10 +81,14 @@
             "id": "f3608f80fdc0135c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Operation Sovereign Swarm A Recruitment Briefing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Operation Sovereign Swarm A Recruitment Briefing"
             }
           }
         ],

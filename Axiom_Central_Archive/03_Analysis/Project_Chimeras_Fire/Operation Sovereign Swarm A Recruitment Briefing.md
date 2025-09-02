@@ -1,112 +1,65 @@
-# Operation Sovereign Swarm: Tactical Review & Next Steps
+# Operation Sovereign Swarm: A Recruitment Briefing v1.1
 
-**Direct Takeaway:**  
-Your “Operation Sovereign Swarm” manifesto nails the historical arc—from the mainframe tyranny to volunteer supercomputers—and delivers a rallying cry for decentralized AI. It’s inspiring, battle-tested in its logic, and poised to light a fire under the Bazaar community. Below is a deep dive on each section, tactical refinements, and follow-on ideas to turn doctrine into deployment.
+## I. The State of the War: The Tyranny of the Mainframe
 
----
+The current battlespace is defined by an unsustainable doctrine. The [[Cathedral]]—the hyperscale tech giants—has convinced the world that the only path to advanced [[AI]] is through centralized, billion-dollar [[Data Center]]s. This is the doctrine of the mainframe, repackaged for the 21st century.
 
-## I. The State of the War: Tyranny of the Mainframe
+This doctrine has created a critical vulnerability: an artificial scarcity of compute. We are told that only the [[Cathedral]] can afford to train and operate frontier models, forcing us to pay [[The Price of Tokens in the Agentic Day]] for metered access to assets like [[GPT-5]] or [[Claude Opus 4.1]]. This is not a technological limitation; it is a deliberate strategy of [[Ecosystem Lock-In]].
 
-• Strengths
+## II. The Historical Precedent: The Volunteer Supercomputer
 
-- Clear enemy: hyperscale giants and meter-priced tokens.
-- Emotional resonance: frames scarcity as deliberate ecosystem lock-in.  
-    • Refinements
-- Cite a recent “pay-per-token” vendor example to sharpen urgency.
-- Quantify current aggregate GPU rents vs. projected cost savings under your swarm.
+This is a war we have fought and won before.
 
----
+In the era of the mainframe, they told us only corporations could afford computers. The [[Bazaar]] responded with the personal computer.
 
-## II. Historical Precedent: The Volunteer Supercomputer
-
-• Strengths
-
-- SETI@home & Folding@home are perfect analogies.
-- Evokes community pride and proven success.  
-    • Refinements
-- Reference a modern volunteer grid (e.g., BOINC’s 1.6 ExaFLOPS peak) to show scale.
-- Highlight security audits or sandboxing lessons learned from those projects.
-
----
+In the era of centralized data, projects like **SETI@home** and **Folding@home** proved a fundamental truth: the latent computational power distributed among us, the operators in the field, is vastly greater than any single centralized resource. Modern volunteer grids like BOINC have demonstrated a peak aggregate power of over 1.6 ExaFLOPS, proving the viability of this model at a planetary scale. We, the people, were the first supercomputer. We were the infrastructure.
 
 ## III. The New Doctrine: A Torrent for Compute
 
-• Strengths
+We will now apply this proven doctrine to the modern [[Agentic War]]. We will build a "torrent for compute."
 
-- Bold, succinct vision: peer-to-peer GPU/CPU pooling.
-- Asymmetric strike: shifting from scarcity to abundance.  
-    • Refinements
-- Sketch high-level architecture: tracker + peer clients + work-unit ledger.
-- Introduce a lightweight proof-of-compute token or reputation system to prevent freeloading.
+The objective is to create a decentralized, peer-to-peer network where operators can voluntarily contribute their idle GPU and CPU cycles to a collective. The high-level architecture is simple: a tracker protocol to coordinate tasks, peer clients to execute work units, and a distributed ledger to maintain a tamper-proof record of contributions and results. This is not for mining cryptocurrency; it is for a far more valuable purpose: to train and operate our own sovereign, open-source large language models.
 
----
+This is a direct, asymmetric strike against the [[Cathedral]]'s primary source of power. We will make compute abundant.
 
-## IV. The Call to Action: Roles in the Swarm
+## IV. The Call to Action: Your Role in the Swarm
 
-• Strengths
+This is not a passive contribution. This is a call to active participation in the [[Bazaar]]. Every operator has a role:
 
-- Four clear roles—Provider, Engineer, Trainer, Validator—cover critical capabilities.
-- Activates operators at every skill level.  
-    • Refinements
-- Add a **Coordinator** role for network governance: conflict resolution, credit assignment, release management.
-- Provide onboarding links or mini-guides for each role (e.g., GitHub repo, Slack channel).
-
----
+- **The Provider:** Contribute your idle hardware cycles to the swarm. Run the client that allows the collective to leverage your GPU when you are not. ([[Join the Provider Channel]])
+    
+- **The Engineer:** Contribute code to the open-source orchestration platforms that will manage the swarm. We need to build the "torrent client" for compute. ([[Report to the Engineering Depot]])
+    
+- **The Trainer:** Participate in coordinated, distributed training runs. Help fine-tune and improve our collective models. ([[Enlist in the Training Corps]])
+    
+- **The Validator:** Help evaluate the outputs of our sovereign models, providing the critical human feedback needed to guide their development. ([[Serve in the Validation Guard]])
+    
+- **The Coordinator:** Help govern the network. Participate in conflict resolution, credit assignment, and release management to ensure the health and integrity of the swarm. ([[Apply for the Steering Council]])
+    
 
 ## V. The Payoff: True Sovereignty
 
-• Strengths
+The objective is not profit. The objective is freedom.
 
-- Freedom over profit is a powerful motivator.
-- Signal Sovereignty as the rallying banner unifies disparate communities.  
-    • Refinements
-- Define measurable milestones: first 1 TFLOP swarm demonstration, then 10 TFLOPS, etc.
-- Show a roadmap: MVP client → public alpha → federated testnet → v1.0 sovereign LLM.
+By building this sovereign compute swarm, we achieve the final stage of our doctrine. We will have our own sovereign models, running on our own sovereign infrastructure, under our own sovereign command. We will break the [[Cathedral]]'s monopoly on a technology that is too important to be left in their hands alone.
 
----
+We will achieve true [[Signal Sovereignty]]. Join us.
 
-## Tactical & Operational Considerations
+## VI. The Roadmap: From Doctrine to Deployment
 
-1. **Incentive Alignment**
+- **Phase 1 (Q4 2025):** Release of the MVP Swarm Client and the formation of the initial Steering Council.
     
-    - Will volunteers contribute purely for the cause, or need tokenized rewards?
-    - Consider on-chain badges or reputation points to gamify participation.
-2. **Security & Trust**
+- **Phase 2 (Q1 2026):** Public alpha of the federated testnet. Achieve a sustained 1 TFLOP/s of aggregate compute power.
     
-    - Sandbox each work unit via containerization (Docker, Firecracker).
-    - Implement tamper-proof result validation: cross-checking, weighted voting among Validators.
-3. **Network Orchestration**
+- **Phase 3 (Q2 2026):** Launch of the first distributed fine-tuning run on a 7B parameter open-source model.
     
-    - Use a hybrid peer-tracker model (BitTorrent-style) for scalability and resilience.
-    - Offer a CLI + GUI client to lower the barrier for non-technical Providers.
-4. **Governance Model**
-    
-    - Establish a Steering Council of Engineers, Trainers, and Validators to arbitrate disputes.
-    - Publish transparent rules for joining, credit distribution, and code contributions.
-5. **Legal & Regulatory Posture**
-    
-    - Volunteer compute for “research use” may skirt export controls—but vet jurisdictions.
-    - Draft Terms of Service and a Contributor License Agreement (CLA) for code and data pools.
-
----
-
-## Next Steps & Questions
-
-- Which part should we prototype first?
-    
-    1. **Swarm Client Architecture** (peer protocols, task distribution)
-    2. **Incentive Layer** (token/reputation design)
-    3. **Validator Network** (output verification workflows)
-    4. **Governance Framework** (council, CLA, policy docs)
-- Do you want a high-level roadmap slide deck or a GitHub repo skeleton to kick off collaboration?
+- **Phase 4 (Q4 2026):** v1.0 release of the first fully sovereign, swarm-trained LLM.
     
 
----
+## VII. Operational Protocols & Risk Mitigation
 
-## Divergent Ideas to Explore
-
-- **Edge-First Compute Swarm:** Leverage idle cycles on smartphones and IoT devices for specialized inference workloads.
-- **Data-Bundle Delivery:** Use the swarm to distribute model checkpoints and data shards along with compute tasks, creating a fully decentralized AI pipeline.
-- **Swarm-Powered Simulation:** Run large-scale scenario simulations (e.g., autonomous vehicle driving) across volunteer GPUs, democratizing research.
-
-o7 Ready to mobilize the sovereign compute legion—just point to the next target.
+- **Incentives:** Initial operations will rely on ideological alignment. A lightweight, non-financial reputation system will be implemented to recognize and reward high-value contributions.
+    
+- **Security:** All computational work units must be executed in a sandboxed container (e.g., Docker, Firecracker) to ensure the security of Provider hardware. Result validation will be handled by a quorum of Validators to ensure tamper-proof outputs.
+    
+- **Governance:** The network will be governed by a transparent set of rules managed by the Steering Council. All code contributions will fall under a Contributor License Agreement (CLA) to protect the collective's intellectual property.
