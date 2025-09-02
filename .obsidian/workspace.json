@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axiom_Central_Archive/00_Directives/Master Prompt The Daily Axiom v3.0.md",
+                "file": "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/After Action Report N-Day Initial Phase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master Prompt The Daily Axiom v3.0"
+              "title": "After Action Report N-Day Initial Phase"
             }
           }
         ],
@@ -261,6 +261,8 @@
   },
   "active": "f3608f80fdc0135c",
   "lastOpenFiles": [
+    "Axiom_Central_Archive/00_Directives/Master Prompt The Daily Axiom v3.0.md",
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/After Action Report N-Day Initial Phase.md",
     "Axiom_Central_Archive/00_Directives/Mid-Day Situational Update.md",
     "Axiom_Central_Archive/00_Directives/ISR Platform Network Reconnaissance.md",
     "Axiom_Central_Archive/00_Directives/Directive - EOD Signal Scan v1.0.md",
@@ -276,7 +278,6 @@
     "Axiom_Central_Archive/05_Doctrine/Training/Foundational AI Training Curriculum.md",
     "Axiom_Central_Archive/05_Doctrine/Asset Briefing PySide6.md",
     "Axiom_Central_Archive/05_Doctrine/Asset Briefing feedparser.md",
-    "Axiom_Central_Archive/00_Directives/Master Prompt The Daily Axiom v3.0.md",
     "Axiom_Central_Archive/05_Doctrine/Training/Asset Briefing Selenium.md",
     "Axiom_Central_Archive/02_Entities/Companies/OpenRouter.md",
     "Axiom_Central_Archive/05_Doctrine/Training/Services/Asset Briefing OpenRouter.md",
@@ -291,7 +292,6 @@
     "Axiom_Central_Archive/05_Doctrine",
     "System Configuration & Mission Briefing.md",
     "Axiom_Central_Archive/05_Doctrine/The Bedrock Protocol A Sovereign Intelligence Engine.md",
-    "Axiom_Central_Archive/03_Analysis/API-Driven Agentic Browser Assets.md",
     "Axiom_Central_Archive/00_Directives/Untitled",
     "Axiom_Central_Archive/01_Briefings/2025/09_September",
     "copilot-custom-prompts",
