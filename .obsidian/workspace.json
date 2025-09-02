@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axiom_Central_Archive/55_Misc/August 30 2025 411CDT Context.md",
+                "file": "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Intelligence Brief Project Borealis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "August 30 2025 411CDT Context"
+              "title": "Intelligence Brief Project Borealis"
             }
           }
         ],
@@ -138,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "boreal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,8 +159,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -276,9 +275,10 @@
   },
   "active": "c4e902f62eab15dc",
   "lastOpenFiles": [
+    "Axiom_Central_Archive/55_Misc/August 30 2025 411CDT Context.md",
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Intelligence Brief Project Borealis.md",
     "Project Borealis.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Operation Chimera's Fire v3.0.md",
-    "Axiom_Central_Archive/55_Misc/August 30 2025 411CDT Context.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Chronopolitical Execution Doctrine.md",
     "Chrono Ignition Protocol.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Chronopolitical Warfare Brief Tianjin Summit.md",
@@ -301,7 +301,6 @@
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Operation Sovereign Swarm A Recruitment Briefing.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Operation Sovereign Swarm A Recruitment Briefingv2.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Reconnaissance Bittensor Miner Frameworks.md",
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Reconnaissance - The Compute Exchange Front.md",
     "Axiom_Central_Archive/05_Doctrine/Training/Services",
     "Axiom_Central_Archive/05_Doctrine/Training/Python/Modules",
     "Axiom_Central_Archive/05_Doctrine/Training/Python",
