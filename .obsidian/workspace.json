@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "Chronopolitical Warfare Brief Tianjin Summit"
             }
+          },
+          {
+            "id": "c4e902f62eab15dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chrono Ignition Protocol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chrono Ignition Protocol"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -259,10 +273,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f3608f80fdc0135c",
+  "active": "c4e902f62eab15dc",
   "lastOpenFiles": [
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Contingency Briefing Market Halt Protocol.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Chronopolitical Warfare Brief Tianjin Summit.md",
+    "Chrono Ignition Protocol.md",
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Contingency Briefing Market Halt Protocol.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Intelligence Directive VIX Threshold Breach.md",
     "Axiom_Central_Archive/00_Directives/Operation Obsidian Weaver - Revised Mission Plan.md",
     "Axiom_Central_Archive/05_Doctrine/The Bedrock Protocol A Sovereign Intelligence Engine.md",
@@ -286,7 +301,6 @@
     "Axiom_Central_Archive/05_Doctrine/Training/Foundational AI Training Curriculum.md",
     "Axiom_Central_Archive/05_Doctrine/Asset Briefing PySide6.md",
     "Axiom_Central_Archive/05_Doctrine/Asset Briefing feedparser.md",
-    "Axiom_Central_Archive/05_Doctrine/Training/Asset Briefing Selenium.md",
     "Axiom_Central_Archive/05_Doctrine/Training/Services",
     "Axiom_Central_Archive/05_Doctrine/Training/Python/Modules",
     "Axiom_Central_Archive/05_Doctrine/Training/Python",
