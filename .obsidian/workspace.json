@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - The Compute Exchange Doctrine.md",
+                "file": "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Reconnaissance - The Compute Exchange Front.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analysis - The Compute Exchange Doctrine"
+              "title": "Reconnaissance - The Compute Exchange Front"
             }
           }
         ],
@@ -261,8 +261,9 @@
   },
   "active": "f3608f80fdc0135c",
   "lastOpenFiles": [
-    "Axiom_Central_Archive/05_Doctrine/Training/Foundational AI Training Curriculum.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis - The Compute Exchange Doctrine.md",
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Reconnaissance - The Compute Exchange Front.md",
+    "Axiom_Central_Archive/05_Doctrine/Training/Foundational AI Training Curriculum.md",
     "Axiom_Central_Archive/05_Doctrine/Asset Briefing PySide6.md",
     "Axiom_Central_Archive/05_Doctrine/Asset Briefing feedparser.md",
     "Axiom_Central_Archive/00_Directives/Daily Axiom Global Intelligence Briefing 01 September 2025 Midday Update.md",
@@ -292,7 +293,6 @@
     "Axiom_Central_Archive/00_Directives/Directive - Daily Axiom v1.0 (Original).md",
     "Axiom_Central_Archive/01_Briefings/2025/09_September/Claude-Daily Axiom Global Intelligence Briefing September 1 2025 Full Scan.md",
     "Axiom_Central_Archive/01_Briefings/2025/09_September/Sept-1-2025 analysis.md",
-    "Axiom_Central_Archive/01_Briefings/2025/09_September/Daily Axiom Global Intelligence Briefing September 1 2025.md",
     "Axiom_Central_Archive/01_Briefings/2025/09_September",
     "copilot-custom-prompts",
     "Pasted image 20250831011516.png",
