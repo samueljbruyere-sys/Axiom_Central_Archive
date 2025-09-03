@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/September 2 Cloaking Event Analysis.md",
+                "file": "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Doctrine - The Gardener's Playbook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "September 2 Cloaking Event Analysis"
+              "title": "Doctrine - The Gardener's Playbook"
             }
           }
         ],
@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mechanic gar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +173,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
