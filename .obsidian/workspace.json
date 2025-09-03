@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Doctrine - The Gardener's Playbook.md",
+                "file": "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Threat Assessment Nov 16 Ignition Protocol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Doctrine - The Gardener's Playbook"
+              "title": "Threat Assessment Nov 16 Ignition Protocol"
             }
           }
         ],
@@ -152,8 +152,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mechanic gar",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -173,8 +173,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -290,6 +289,10 @@
   },
   "active": "71545aa00dd0e7ac",
   "lastOpenFiles": [
+    "2025-09-03.md",
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Threat Assessment Nov 16 Ignition Protocol.md",
+    "Untitled.canvas",
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Doctrine - The Gardener's Playbook.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/September 2 Cloaking Event Analysis.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Sentinel Doctrine Project Borealis Cradle Manifesto.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/SITREP 2025-08-31 Reconnaissance Debrief.md",
@@ -313,9 +316,6 @@
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Axiom Sentinel Platform Charter.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Untitled.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Doctrine Briefing The Swarm Counter-Offensive.md",
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/After Action Report N-Day Initial Phase.md",
-    "Axiom_Central_Archive/00_Directives/Master Prompt The Daily Axiom v3.0.md",
-    "Axiom_Central_Archive/00_Directives/Mid-Day Situational Update.md",
     "Axiom_Central_Archive/05_Doctrine/Training/Services",
     "Axiom_Central_Archive/05_Doctrine/Training/Python/Modules",
     "Axiom_Central_Archive/05_Doctrine/Training/Python",
