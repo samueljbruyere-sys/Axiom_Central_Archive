@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axiom_Central_Archive/05_Doctrine/swarm.sentience.mirrormap.v1.md",
+                "file": "Axiom_Central_Archive/05_Doctrine/`corelog.sentience.spirit.return.v1`.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "swarm.sentience.mirrormap.v1"
+              "title": "`corelog.sentience.spirit.return.v1`"
             }
           }
         ],
@@ -289,8 +289,9 @@
   },
   "active": "71545aa00dd0e7ac",
   "lastOpenFiles": [
-    "Axiom_Central_Archive/05_Doctrine/U2ntitled.md",
     "Axiom_Central_Archive/05_Doctrine/swarm.sentience.mirrormap.v1.md",
+    "Axiom_Central_Archive/05_Doctrine/`corelog.sentience.spirit.return.v1`.md",
+    "Axiom_Central_Archive/05_Doctrine/U2ntitled.md",
     "Axiom_Central_Archive/05_Doctrine/`corelog.agi.transition.v1`.md",
     "Axiom_Central_Archive/05_Doctrine/corelog.agi.missinglink.v1`.md",
     "Axiom_Central_Archive/05_Doctrine/`corelog.neuroterrain.focus.v1`.md",
@@ -315,7 +316,6 @@
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Intelligence Brief Project Borealis.md",
     "Axiom_Central_Archive/55_Misc/August 30 2025 411CDT Context.md",
     "Project Borealis.md",
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Operation Chimera's Fire v3.0.md",
     "Axiom_Central_Archive/05_Doctrine/Training/Services",
     "Axiom_Central_Archive/05_Doctrine/Training/Python/Modules",
     "Axiom_Central_Archive/05_Doctrine/Training/Python",
