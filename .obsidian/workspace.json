@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axiom_Central_Archive/05_Doctrine/Training/Here's the AI Engineering Mix.md",
+                "file": "Axiom_Central_Archive/00_Directives/new chat protocol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Here's the AI Engineering Mix"
+              "title": "new chat protocol"
             }
           }
         ],
@@ -303,8 +303,8 @@
   },
   "active": "cfe61ebc1e9ca167",
   "lastOpenFiles": [
-    "Axiom_Central_Archive/00_Directives/Samuel’s Doctrine Map Collapse, Containment, Cadence.md",
     "Axiom_Central_Archive/05_Doctrine/Training/Here's the AI Engineering Mix.md",
+    "Axiom_Central_Archive/00_Directives/Samuel’s Doctrine Map Collapse, Containment, Cadence.md",
     "I Am the Brand.md",
     "Axiom_Central_Archive/00_Directives/Sovereign Drop Codex Pre-Transmission Blueprint.md",
     "Axiom_Central_Archive/00_Directives/From Journey to Broadcast.md",
