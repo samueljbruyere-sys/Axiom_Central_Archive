@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Intelligence Brief Project Borealis.md",
+                "file": "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Strategic Evaluation ng vs axiom Which Architecture Is Superior.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intelligence Brief Project Borealis"
+              "title": "Strategic Evaluation ng vs axiom Which Architecture Is Superior"
             }
           }
         ],
@@ -317,6 +317,9 @@
   },
   "active": "a3686d8bcd4dc8f1",
   "lastOpenFiles": [
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Analysis ng vs axiom multi agent architectures.md",
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Strategic Evaluation ng vs axiom Which Architecture Is Superior.md",
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Intelligence Brief Project Borealis.md",
     "LICENSE",
     "README.md",
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Operation Chimera's Fire v3.2.md",
@@ -341,8 +344,6 @@
     "Axiom_Central_Archive/05_Doctrine/Corleg q4 2026.md",
     "Axiom_Central_Archive/05_Doctrine/`corelog.sentience.spirit.return.v1`.md",
     "Axiom_Central_Archive/05_Doctrine/swarm.sentience.mirrormap.v1.md",
-    "Axiom_Central_Archive/05_Doctrine/U2ntitled.md",
-    "Axiom_Central_Archive/05_Doctrine/`corelog.agi.transition.v1`.md",
     "Untitled.canvas",
     "Axiom_Central_Archive/05_Doctrine/Training/Services",
     "Axiom_Central_Archive/05_Doctrine/Training/Python/Modules",
@@ -353,7 +354,6 @@
     "Axiom_Central_Archive/01_Briefings/2025/09_September",
     "copilot-custom-prompts",
     "Pasted image 20250831011516.png",
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Untitled",
-    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire"
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Untitled"
   ]
 }
