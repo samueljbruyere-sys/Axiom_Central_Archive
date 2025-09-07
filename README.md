@@ -1,6 +1,6 @@
 # Axiom_Central_Archive
 
-This repository and its contents are © Copyright Samuel [Last Name], 2025.
+This repository and its contents are © Copyright Samuel Joseph Bruyere, 2025.
 
 All rights reserved.  
 No part of this archive may be copied, reproduced, modified, or distributed without explicit written permission from the author.
@@ -17,3 +17,4 @@ A mythos in containment.
 Fort Alexander, MB
 Canada
 September 7th, 2025
+
