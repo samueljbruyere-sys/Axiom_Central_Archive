@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/the prompt itself.md",
+                "file": "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/Medium Cohesion Sleep Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the prompt itself"
+              "title": "Medium Cohesion Sleep Prompt"
             }
           }
         ],
@@ -332,6 +332,7 @@
   "active": "8b8ef875cf9aa920",
   "lastOpenFiles": [
     "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/Reverse-Engineered Sleep Prompt (Minimal Cohesion-Preserving).md",
+    "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/Medium Cohesion Sleep Prompt.md",
     "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/the prompt itself.md",
     "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/Reconstructed Sleep Prompt (Cohesion-Preserving).md",
     "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/Synthetic Sleep Prompt.md",
@@ -357,7 +358,6 @@
     "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/Operation Chimera's Fire v2.0.md",
     "Axiom_Central_Archive/05_Doctrine/UIR-Based Sapient Architecture.md",
     "Axiom_Central_Archive/05_Doctrine/Creek Current Sovereignty Proposal — Mini Hydro Activation for Sagkeeng.md",
-    "Axiom_Central_Archive/05_Doctrine/Doctrine Fragment 99 $5K Sovereignty Loop — Infrastructure Activation Budget.md",
     "LICENSE",
     "Untitled.canvas",
     "Axiom_Central_Archive/05_Doctrine/Training/Services",
