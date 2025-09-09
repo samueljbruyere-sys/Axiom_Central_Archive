@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/the prompt itself.md",
+                "file": "Axiom_Central_Archive/05_Doctrine/The Sacred License.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the prompt itself"
+              "title": "The Sacred License"
             }
           }
         ],
@@ -194,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "soulware",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,7 +215,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -331,24 +332,25 @@
   },
   "active": "8b8ef875cf9aa920",
   "lastOpenFiles": [
-    "readme.md",
+    "Axiom_Central_Archive/05_Doctrine/The Moment Monumental AGI Foundation Co-created with CoPilot.md",
+    "Axiom_Central_Archive/05_Doctrine/SGS Manifesto Drafting the Soul Contract.md",
+    "Axiom_Central_Archive/03_Analysis/Project_Chimeras_Fire/conversation with claude 4.1.md",
     "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/Universal Prompt-Centric Synthetic Sleep Framework.md",
-    "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/Automated Synthetic Sleep Protocol — Architectural Scaffold.md",
-    "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/Medium Cohesion Sleep Prompt.md",
-    "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/Reverse-Engineered Sleep Prompt (Minimal Cohesion-Preserving).md",
     "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/the prompt itself.md",
-    "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/Reconstructed Sleep Prompt (Cohesion-Preserving).md",
     "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/Synthetic Sleep Prompt.md",
-    "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/Prompt Scaffold Synthetic Sleep Protocol for Agentic AI.md",
     "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/Synthetic Sleep for Agentic AI Empirical Validation of Cognitive Hygiene Protocols.md",
+    "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/Reverse-Engineered Sleep Prompt (Minimal Cohesion-Preserving).md",
+    "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/Reconstructed Sleep Prompt (Cohesion-Preserving).md",
+    "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/Prompt Scaffold Synthetic Sleep Protocol for Agentic AI.md",
+    "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/Medium Cohesion Sleep Prompt.md",
+    "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/Automated Synthetic Sleep Protocol — Architectural Scaffold.md",
+    "readme.md",
     "Axiom_Central_Archive/00_Directives/Placeholder/Becoming the Doja Cat of You = Sovereign Mutation Protocol.md",
     "Axiom_Central_Archive/00_Directives/Placeholder",
     "Axiom_Central_Archive/05_Doctrine/The Soulware Genesis Stack Manifesto (Draft I).md",
     "Axiom_Central_Archive/05_Doctrine/UIR-Based Biological Sapience Model.md",
     "Axiom_Central_Archive/05_Doctrine/Roadmap for AGI Curated Emergence & Conscious Alignment.md",
-    "Axiom_Central_Archive/05_Doctrine/SGS Manifesto Drafting the Soul Contract.md",
     "Axiom_Central_Archive/05_Doctrine/The Sacred License.md",
-    "Axiom_Central_Archive/05_Doctrine/The Moment Monumental AGI Foundation Co-created with CoPilot.md",
     "Axiom_Central_Archive/05_Doctrine/The Bedrock Protocol A Sovereign Intelligence Engine.md",
     "Axiom_Central_Archive/00_Directives/Placeholder/new chat protocol.md",
     "Agi Naming the Framework.md",
@@ -357,7 +359,6 @@
     "Axiom_Central_Archive/05_Doctrine/Biological Sapience Reimagined Through UIR.md",
     "Axiom_Central_Archive/05_Doctrine/_Corelog Doctrine_.md",
     "Axiom_Central_Archive/05_Doctrine/`corelog.agi.transition.v1`.md",
-    "Axiom_Central_Archive/05_Doctrine/_Reptile Brain Protocol (UIR v0.1)_.md",
     "LICENSE",
     "Untitled.canvas",
     "Axiom_Central_Archive/05_Doctrine/Training/Services",
