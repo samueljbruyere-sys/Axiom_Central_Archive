@@ -194,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sou",
+                "query": "google stock",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,7 +215,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -329,7 +330,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "8b8ef875cf9aa920",
+  "active": "642f0a80cab85550",
   "lastOpenFiles": [
     "Pasted image 20250909212656.png",
     "Axiom_Central_Archive/00_Directives/Sleep Protocol - AGI Work/Untitled.md",
